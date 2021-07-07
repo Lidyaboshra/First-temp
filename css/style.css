@@ -1,0 +1,159 @@
+body{
+    font-family: "Times New Roman", Georgia, Serif;
+    font-size: 20px;
+}
+
+.navbar-default{
+    margin-bottom: 0%;
+    }
+
+.imageback{
+    position: relative;
+    background-image: url("ham.jpg");
+    width:100%;
+    height: 614px;
+    background-size: cover;
+    margin-bottom: 80px;
+    background-position: center center;
+    background-attachment: scroll;
+}
+
+.imageback p{
+position: absolute;
+bottom: 8px;
+left: 16px;
+font-family: "Playfair Display";
+font-size: 36px;
+letter-spacing: 5px;
+}
+
+.part2{
+    display: inline-block;
+    padding-left: 0;
+    padding-right: 0;
+    margin-bottom: 80px;
+    
+}
+
+img[src="css/tablesetting2.jpg"]{
+    height:627.484px;
+    width: 501.984px;
+    align-items: center;
+    margin-left: 35px;
+}
+
+.part3{
+    display: inline;
+    margin-bottom: 80px;
+}
+.p1,.p2{
+max-width: 550px;
+margin-bottom: 30px;
+font-size: 20px;
+margin-left: 20px;
+}
+
+.p2{
+    color:rgba(0,0,0,0.5);
+}
+
+span{
+    background-color: rgb(231, 227, 227);
+    padding: 5px;
+    font-size: 18px;
+}
+
+.part3 h1,.part3 h5{
+    letter-spacing: 5px;
+    margin-bottom: 30px;
+    text-align: center;
+    max-width: 500px;
+    margin-left: 20px;
+
+}
+
+hr{
+    width: 1170px;
+}
+
+img[src="css/tablesetting.jpg"]{
+    margin-left: 15px;
+}
+
+.part4,.part5{
+    margin-top: 50px;
+}
+
+.part4 header{
+    font-size: 50px;
+    text-align: center;
+    letter-spacing: 5px;
+    margin-bottom: 50px;
+}
+
+.part4 h3{
+    letter-spacing: 5px;
+}
+
+.part4 p{
+    color:rgba(0,0,0,0.5);
+    font-size: 15px;
+    margin-bottom: 50px;
+}
+
+.part6 {
+    margin-top: 50px;
+}
+
+.part6 header{
+    margin-bottom: 50px;
+    letter-spacing: 5px;
+    font-size: 40px;
+    margin-left: 20px;
+
+}
+
+.part6 p{
+    font-size: 17px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+
+}
+
+.part6 h2{
+    font-size: 17px;
+    color: rgb(6, 6, 173);
+    margin-bottom: 20px;
+    margin-left: 20px;
+
+}
+
+.part6 input{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    margin-bottom: 30px;
+    width: 100%;
+    border-bottom-color: rgba(139, 139, 139, 0.5);
+    padding-bottom: 20px;
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+.part6 button{
+    border: none;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+
+}
+
+footer{
+    text-align: center;
+    padding: 40px;
+    background-color:rgb(231, 227, 227); 
+    font-size: 18px;
+}
